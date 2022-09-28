@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.contenedor1{width: 400px; height: 650px; background-image: url("../img/hoja.jpg"); background-size: 400px 650px; box-sizing: border-box; padding: 0px 15px 0px 15px; float: left; margin: 0 0 0 350px}
+.contenedor2{width: 400px; height: 650px; background-image: url("../img/hoja.jpg"); background-size: 400px 650px; box-sizing: border-box; padding: 0px 15px 0px 15px; float: left}
+body{background-image: url("../img/fondo.jpg"); background-size: cover}
+h1 {color: antiquewhite; font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+p{color: antiquewhite;}
